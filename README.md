@@ -24,7 +24,7 @@ Lifestyle Blog / 生活博客: [TICKME](t1ck.me)
 ---
 
 ## 📫 E-mail / 邮箱
-[i@t1ck.me](mailto:i@t1ck.me)  
+[i@t1ck.me](mailto:i@t1ck.me)**(recommend)** 
 [t1ckfx077@gmail.com](mailto:t1ckfx077@gmail.com)  
 
 ---
