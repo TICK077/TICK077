@@ -18,7 +18,7 @@ You can call me **Ruoqi (Pronounced as: Ruoji)**, that's fine too~
 ---
 
 ## 📝 Blogs / 博客
-Technical Blog / 技术博客: [TICKING](t1ck.ing)
+Technical Blog / 技术博客: [TICKING](t1ck.ing)  
 Lifestyle Blog / 生活博客: [TICKME](t1ck.me)
 
 ---
@@ -32,9 +32,9 @@ Lifestyle Blog / 生活博客: [TICKME](t1ck.me)
 ## 🔗 Social Links / 社交链接
 GitHub: [TICK077](https://github.com/TICK077)   
 GitLab: [TICK077](https://gitlab.com/TICK077)   
-X: [TT](https://x.com/Ray050911)  
 BiliBili: [TICK077](https://space.bilibili.com/249100153)  
 Discord: [TICK077](https://discord.com/users/1096413889626898502)  
+X: [TT](https://x.com/Ray050911)  
 
 ---
 🔥 Leveling up! / 正在变得更强！  
