@@ -39,4 +39,6 @@ X: [TT](https://x.com/Ray050911)
 
 ---
 🔥 Leveling up! / 正在变得更强！  
+
+<iframe src="https://discord.com/widget?id=1456611843593343182&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
   
