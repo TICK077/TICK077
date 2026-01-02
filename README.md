@@ -39,8 +39,8 @@ X: [TT](https://x.com/Ray050911)
 
 ## 💬 Community / 加入我们的社区 
 
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge)](https://discord.gg/nXKJ4rtDQd)
-[![KOOK](https://img.shields.io/badge/KOOK-Join-00C1A2?style=for-the-badge)](https://kook.vip/hZyVe1)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge)](https://discord.gg/nXKJ4rtDQd)  
+[![KOOK](https://img.shields.io/badge/KOOK-Join-00C1A2?style=for-the-badge)](https://kook.vip/hZyVe1)  
 
 ---
 🔥 Leveling up! / 正在变得更强！  
