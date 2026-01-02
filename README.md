@@ -38,8 +38,8 @@ Discord: [TICK077](https://discord.com/users/1096413889626898502)
 X: [TT](https://x.com/Ray050911)  
 
 ## 💬 Community / 加入我们的社区 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/nXKJ4rtDQd)
-[![KOOK](https://img.shields.io/badge/KOOK-Join%20Server-00C1A2?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMEM1LjM3MiAwIDAgNS4zNzIgMCAxMnM1LjM3MiAxMiAxMiAxMiAxMi01LjM3MiAxMi0xMi01LjM3Mi0xMi0xMi0xMnptMy45NzUgMTUuMjM2bC0yLjI2OS0xLjMxMi0yLjI2OSAxLjMxMi41ODgtMi42MjctMS45ODItMS44MjQgMi42ODUuMzE2TDEyIDguMDM2bDEuMjcyIDIuMDUzIDIuNjg1LS4zMTYtMS45ODIgMS44MjQuNTg4IDIuNjI3eiIvPjwvc3ZnPg==)](https://kook.vip/hZyVe1)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/nXKJ4rtDQd)  
+[![KOOK](https://img.shields.io/badge/KOOK-Join%20Server-00C1A2?style=for-the-badge)](https://kook.vip/hZyVe1)  
 
 ---
 🔥 Leveling up! / 正在变得更强！  
