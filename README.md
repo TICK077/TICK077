@@ -13,7 +13,7 @@
 ## 👤 Appellation / 称呼
 **TICK** or **Ray7**  
 叫我**若奇**也可以喔~  
-You can call me **Ruoqi (Pronounced as: Ruoji)**, that's fine too~
+You can call me **Ruoqi (Pronounced as: Rochee)**, that's fine too~
 
 ---
 
