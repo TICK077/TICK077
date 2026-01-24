@@ -18,8 +18,8 @@ You can call me **Ruoqi (Pronounced as: Rochee)**, that's fine too~
 ---
 
 ## 📝 Blogs / 博客
-Technical Blog / 技术博客: [TICKING](t1ck.ing)  
-Lifestyle Blog / 生活博客: [TICKME](t1ck.me)
+Technical Blog / 技术博客: [TICKING](https://t1ck.ing/)  
+Lifestyle Blog / 生活博客: [TICKME](https://t1ck.me/)
 
 ---
 
