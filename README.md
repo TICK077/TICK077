@@ -39,26 +39,26 @@ X: [TT](https://x.com/Ray050911)
 
 ## 🧩 Tech Stack
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cloudflare.svg" width="20" />
-Routing & Switching  
+<p align="left">
+  <img src="https://unpkg.com/lucide-static/icons/globe.svg" width="18" />&nbsp;
+  <b>Routing & Switching</b>
+</p>
+<p align="left">
+  <img src="https://unpkg.com/lucide-static/icons/settings.svg" width="18" />&nbsp;
+  <b>Server Operations</b>
+</p>
+<p align="left">
+  <img src="https://unpkg.com/lucide-static/icons/linux.svg" width="18" />&nbsp;
+  <b>Linux</b>
+</p>
+<p align="left">
+  <img src="https://unpkg.com/lucide-static/icons/cpu.svg" width="18" />&nbsp;
+  <b>MCU Development</b>
+</p>
+<p align="left">
+  <b>C</b> · <b>Python</b> · Cloud Infrastructure
+</p>
 
-<img src="https://unpkg.com/lucide-static/icons/settings.svg" width="20" />
-Server Operations  
-
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linux.svg" width="20" />
-Linux  
-
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/c.svg" width="20" />
-C  
-
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" width="20" />
-Python  
-
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/kubernetes.svg" width="20" />
-Cloud & Infrastructure  
-
-<img src="https://unpkg.com/lucide-static/icons/cpu.svg" width="20" />
-MCU Development
 
 ---
 🔥 Leveling up! / 正在变得更强！  
