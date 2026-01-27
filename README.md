@@ -37,10 +37,28 @@ BiliBili: [TICK077](https://space.bilibili.com/249100153)
 Discord: [TICK077](https://discord.com/users/1096413889626898502)  
 X: [TT](https://x.com/Ray050911)  
 
-## 💬 Community / 加入我们的社区 
+## 🧩 Tech Stack
 
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge)](https://discord.gg/nXKJ4rtDQd)  
-[![KOOK](https://img.shields.io/badge/KOOK-Join-00C1A2?style=for-the-badge)](https://kook.vip/hZyVe1)  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cloudflare.svg" width="20" />
+Routing & Switching  
+
+<img src="https://unpkg.com/lucide-static/icons/settings.svg" width="20" />
+Server Operations  
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linux.svg" width="20" />
+Linux  
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/c.svg" width="20" />
+C  
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" width="20" />
+Python  
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/kubernetes.svg" width="20" />
+Cloud & Infrastructure  
+
+<img src="https://unpkg.com/lucide-static/icons/cpu.svg" width="20" />
+MCU Development
 
 ---
 🔥 Leveling up! / 正在变得更强！  
