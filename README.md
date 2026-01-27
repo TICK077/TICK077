@@ -37,27 +37,17 @@ BiliBili: [TICK077](https://space.bilibili.com/249100153)
 Discord: [TICK077](https://discord.com/users/1096413889626898502)  
 X: [TT](https://x.com/Ray050911)  
 
-## 🧩 Tech Stack
+---
 
-<p align="left">
-  <img src="https://unpkg.com/lucide-static/icons/globe.svg" width="18" />&nbsp;
-  <b>Routing & Switching</b>
-</p>
-<p align="left">
-  <img src="https://unpkg.com/lucide-static/icons/settings.svg" width="18" />&nbsp;
-  <b>Server Operations</b>
-</p>
-<p align="left">
-  <img src="https://unpkg.com/lucide-static/icons/linux.svg" width="18" />&nbsp;
-  <b>Linux</b>
-</p>
-<p align="left">
-  <img src="https://unpkg.com/lucide-static/icons/cpu.svg" width="18" />&nbsp;
-  <b>MCU Development</b>
-</p>
-<p align="left">
-  <b>C</b> · <b>Python</b> · Cloud Infrastructure
-</p>
+## 🧩 Tech Stack
+| Area | Focus |
+|------|-------|
+| 🌐 Network | Routing & Switching |
+| ⚙️ Systems | Server Ops · Linux |
+| 💻 Programming | C · Python |
+| 🧩 Embedded | MCU Development |
+| ☁️ Infra | Cloud Infrastructure |
+
 
 
 ---
