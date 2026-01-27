@@ -39,7 +39,7 @@ X: [TT](https://x.com/Ray050911)
 
 ---
 
-## 🧩 Tech Stack
+## 🧩 Tech Stack / 技术栈
 | Area | Focus |
 |------|-------|
 | 🌐 Network | Routing & Switching |
