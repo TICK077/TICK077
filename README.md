@@ -25,6 +25,7 @@ Lifestyle Blog / 生活博客: [TICKME](https://t1ck.me/)
 
 ## 📫 E-mail / 邮箱
 [i@t1ck.me](mailto:i@t1ck.me) **(recommend / 推荐)**   
+[t1ck077@outlook.com](mailto:t1ck077@outlook.com)  
 [t1ckfx077@gmail.com](mailto:t1ckfx077@gmail.com)  
 
 ---
@@ -42,7 +43,7 @@ X: [TT](https://x.com/Ray050911)
 ## 🧩 Tech Stack / 技术栈
 | Area | Focus |
 |------|-------|
-| 🌐 Network | Routing & Switching |
+| 🌐 Network | Advanced Routing & Switching |
 | ⚙️ Systems | Server Ops · Linux |
 | 💻 Programming | C · Python |
 | 🧩 Embedded | MCU Development |
