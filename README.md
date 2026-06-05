@@ -8,7 +8,10 @@
           —————————————————————     ██║   ██║╚██████╗██║  ██╗╚██████╔╝   ██║     ██║    ——————————————
               —————————————————     ╚═╝   ╚═╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝    ╚═╝     ╚═╝    ————————————————————
 ```
+<div align="center">
 <img src="https://count.getloli.com/@TICK077?name=TICK077&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=7355608" alt=":name" />
+</div>
+
 ---
 
 ## 👤 Appellation / 称呼
